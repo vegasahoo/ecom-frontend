@@ -1,8 +1,8 @@
+import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import RegisterUser from "./pages/RegisterUser";
 import LoginUser from "./pages/LoginUser";
-import "./App.css";
 import ProductDetail from "./pages/ProductDetail";
 import Layout from "./component/Layout";
 import Cart from "./pages/Cart";
